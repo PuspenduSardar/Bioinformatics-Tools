@@ -1,5 +1,5 @@
 # Bioinformatics Tools
-### Author: Puspendu Sardar, Ph.D., Deprtment of Medicine, University of Cambrodge
+### Author: Puspendu Sardar, Ph.D., Deprtment of Medicine, University of Cambridge
 
 This repository contains scripts for basic bioinformatics analyses and utilities.
 
@@ -19,7 +19,7 @@ This repository contains scripts for basic bioinformatics analyses and utilities
 
 ## Requirements
 - **Python** 
-- **R-packages** **seqinr**
+- **R-package** **seqinr**
 
 ## How to Clone and Run
 ```bash
